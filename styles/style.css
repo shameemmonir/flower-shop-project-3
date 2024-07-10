@@ -46,4 +46,11 @@ body {
     width: 50%;
     /* border: 1px solid blue; */
     height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-image-container img{
+    width: 60%;
+    height: 650px;
 }
